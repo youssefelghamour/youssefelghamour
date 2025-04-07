@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![bg](hero2.png)
+![bg](hero3.png)
 
 ![bg](tools.png)
