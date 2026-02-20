@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ![bg](hero3.png)
 
-![bg](tools-1.png)
+![bg](tools-2.png)
